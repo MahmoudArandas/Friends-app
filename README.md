@@ -1,4 +1,4 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Preview live]([https://github.com/facebook/create-react-app](https://66917181c9f4c81f15474b19--preeminent-cactus-e09e56.netlify.app/).
+
+ Preview live([https://github.com/facebook/create-react-app](https://66917181c9f4c81f15474b19--preeminent-cactus-e09e56.netlify.app/).
 
